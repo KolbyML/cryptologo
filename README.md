@@ -4,9 +4,9 @@ A repo to auto generate photo formats for websites.
 Want to add you logo or change it on my website.
 
 
-# Instructions
+# Logo Minimum Size
 
-Do a PR and add your logo to the master folder. Logo size doesn't matter but should be greater then 250 px at minimum
+Logo size doesn't matter but should be greater then 250 px at minimum
 
 
 # Naming format
@@ -24,6 +24,9 @@ bitcoin-cash.png
 
 Logos are converted to the 3 supported versions every minute.
 
+# Add a logo
+
+Add your logo to the master folder.
 
 # Delete a logo
 
