@@ -28,3 +28,7 @@ Logos are converted to the 3 supported versions every minute.
 # Delete a logo
 
 To delete a logo you must delete it in the master folder as it acts as a way to add and remove logos
+
+# To Replace a Old logo
+
+To replace a logo. Add the new logo to the replaceOldLogo folder and it will be done.
