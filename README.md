@@ -26,12 +26,12 @@ Logos are converted to the 3 supported versions every minute.
 
 # Add a logo
 
-Add your logo to the master folder.
+Add your logo to the master folder and do a pull request.
 
 # Delete a logo
 
-To delete a logo you must delete it in the master folder as it acts as a way to add and remove logos
+To delete a logo you must delete it in the master folder as it acts as a way to add and remove logos and do a pull request
 
 # To Replace a Old logo
 
-To replace a logo. Add the new logo to the replaceOldLogo folder and it will be done.
+To replace a logo. Add the new logo to the replaceOldLogo folder and it will be done and do a pull request.
